@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@skbkontur/react-ui": "^4.19.1",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.0"
